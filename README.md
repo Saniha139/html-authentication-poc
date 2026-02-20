@@ -18,11 +18,12 @@ This project is a simple HTML-based authentication system Proof of Concept.
 
 ## Navigation Flow
 
-Login → Dashboard  
-Register → Login  
-Forgot Password → Login  
-Reset Password → Login  
-Dashboard → Logout → Login
+Login -> Dashboard  
+Register -> Login  
+Forgot Password -> Login  
+Reset Password -> Login  
+Dashboard -> Logout -> Login
 
 ## Author
+
 Saniha Manjunath
